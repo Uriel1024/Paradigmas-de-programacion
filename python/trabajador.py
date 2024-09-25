@@ -21,4 +21,6 @@ def menu(i):
 
 i = 0 
 while(i == 0):
-    i = menu(i)    
+    i = menu(i)
+
+print('Programa terminado')
